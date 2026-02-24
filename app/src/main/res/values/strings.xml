@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tarjeta bus Zaragoza</string>
+    <string name="saldo_actual_acerca_tarjeta">Acerca tarjeta para ver saldo</string>
+    <string name="retira_funda">Retira la funda si es necesario</string>
+    <string name="saldo_actual">Tu saldo actual es de</string>
+    <string name="elige_recarga">Elige la cantidad a recargar</string>
+    <string name="recargar_5_euros">5€</string>
+    <string name="recargar_10_euros">10€</string>
+    <string name="recargar_15_euros">15€</string>
+    <string name="recargar_20_euros">20€</string>
+    <string name="acerca_para_recargar">Acerca la tarjeta para recargar</string>
+    <string name="button_activar_nfc">Activar\nNFC</string>
+    <string name="debes_activar_nfc">Debes activar la tecnología NFC\n\nPulsa para activarla</string>
+    <string name="cargado_correctamente">Se han cargado correctamente </string>
+    <string name="error_no_posible_auntentificar">ERROR! No ha sido posible auntentificar</string>
+    <string name="error_tarjeta_retirada">ERROR! La tarjeta se ha alejado del lector</string>
+    <string name="max_saldo_alcanzado">No es posible recargar. Máximo saldo de 60€ alcanzado</string>
+    <string name="error_no_nfc">La aplicación no se puede utilizar porque este dispositivo no tiene la tecnología NFC</string>
+    <string name="error">Ha ocurrido un error</string>
+</resources>
