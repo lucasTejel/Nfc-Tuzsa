@@ -20,15 +20,18 @@ The NFC Tuzsa application is available for Android devices.
 ### Use
 
 Balance inquiry: Once logged in, users can check the balance of their transportation card by selecting the corresponding option in the main menu.
-![01](https://github.com/user-attachments/assets/f3a0411d-7fd6-4454-91c1-5e9d3b175d40)
 
-![02](https://github.com/user-attachments/assets/8e4aa46b-dbb1-40a0-8b3f-51d9dc810875)
+![01](https://github.com/user-attachments/assets/3e0c458e-5e2f-475f-8d22-bde963cf08cd)
+![02](https://github.com/user-attachments/assets/6d9c8559-a7cf-4a53-af21-a39c0321b315)
+
 
 
 Recharge: To recharge the balance on the card, users can select the recharge option.
-![03](https://github.com/user-attachments/assets/cb350284-c5a3-4241-ba9c-6d66a87d217e)
 
-![04](https://github.com/user-attachments/assets/27cdb184-7e59-4c7f-9a02-8dbe47cbcf4c)
+![03](https://github.com/user-attachments/assets/1d7441ff-380c-4f35-ad96-eb1afdbb6dd8)
+![04](https://github.com/user-attachments/assets/0bd0215c-8c22-44d0-823d-1eeb8e40fa32)
+
+
 
 ### License
 
